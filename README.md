@@ -1,4 +1,4 @@
-# 25JBNUPC# 24JBNUPC
+# 25JBNUPC
 
 - 사진
 - 솔루션
